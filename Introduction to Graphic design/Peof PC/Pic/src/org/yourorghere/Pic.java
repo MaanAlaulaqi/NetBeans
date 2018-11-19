@@ -34,7 +34,7 @@ private int texture;
         frame.setSize(640, 480);
         final Animator animator = new Animator(canvas);
         frame.addWindowListener(new WindowAdapter() {
-
+ 
             @Override
             public void windowClosing(WindowEvent e) {
                 // Run this on another thread than the AWT event queue to
