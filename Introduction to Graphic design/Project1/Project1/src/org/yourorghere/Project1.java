@@ -260,7 +260,7 @@ public class Project1 implements GLEventListener {
             timeG =+ timeGx;
        if (timeG >= 0.686) timeG =- timeGx;
        
-       if (timeB <= 0.933f && )
+       if (timeB <= 0.933f  )
             timeB =+ timeBx;
        if (timeB >= 0.933 ) timeB =- timeBx;
        
