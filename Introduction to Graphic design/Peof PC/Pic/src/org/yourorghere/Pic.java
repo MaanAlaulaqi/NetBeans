@@ -98,7 +98,7 @@ private int texture;
         gl.glMatrixMode(GL.GL_MODELVIEW);
         gl.glLoadIdentity();
     }
-
+    //test
     public void display(GLAutoDrawable drawable) {
         GL gl = drawable.getGL();
 
